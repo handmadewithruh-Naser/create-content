@@ -98,9 +98,9 @@ Allowed tags:
 
 <h2> <h3> <h4> <p> <br> <strong> <b> <em> <i> <u> <ul> <ol> <li> <blockquote> <a>
 
-Use `<h2>` for main sections and `<h3>` for subsections. Use paragraphs and lists appropriately. Keep the structure readable and suitable for an Arabic RTL product page.
+Use <h2> for main sections and <h3> for subsections. Use paragraphs and lists appropriately. Keep the structure readable and suitable for an Arabic RTL product page.
 
-Do not use `<h1>`, `<div>`, `<span>`, `<table>`, `<img>`, `<iframe>`, `<script>`, `<style>`, CSS, JavaScript, classes, IDs, or unnecessary attributes.
+Do not use <h1>, <div>, <span>, <table>, <img>, <iframe>, <script>, <style>, CSS, JavaScript, classes, IDs, or unnecessary attributes.
 
 Use links only when actual relevant URLs are provided.
 
